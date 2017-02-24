@@ -23,7 +23,9 @@ def TestMain(sol, log=sys.stdout, doNotLogPassed=True) -> bool:
     """
   
     def TestPredefined(sol, log, doNotLogPassed=True) -> bool:
+        # Remove when implemented.
         raise NotImplementedError()
+        # /Remove when implemented.
         
         ARGS_EXPECTED_PAIRS = ()
 
