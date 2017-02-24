@@ -136,13 +136,13 @@ Serialize a linked list.
 Find the middle three digits in a number represented as a linked list.
 [href.] http://rosettacode.org/wiki/Middle_three_digits
 
-Convert a into a linked list of its digits.
+Convert a number into a linked list of its digits.
 [href.] https://github.com/lilsweetcaligula
 
 Find a pattern represented as a linked list in a target linked list.
 [href.] https://github.com/lilsweetcaligula
 
-Check if the two linked lists are anagrams.
+Check if two linked lists are anagrams.
 [href.] https://github.com/lilsweetcaligula
 
 XOR two values represented as linked lists.
