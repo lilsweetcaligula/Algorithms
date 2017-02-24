@@ -1,4 +1,7 @@
-# A test template for Python solutions.
+# A generic test template for the Python solutions to the linked list problems.
+#
+# The testee function is recommended to be defined inside the "solution" module.
+#
 
 import sys
 import LinkedList
