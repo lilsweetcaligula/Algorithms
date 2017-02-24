@@ -1,6 +1,12 @@
 # A test template for Python solutions.
 
 import sys
+import LinkedList
+import solution
+
+FP_RATIO_PREC = 2
+# The number of digits of precision in the values representing 
+# the passed/failed ratio to the total number of tests.
 
 def TestMain(sol, log=sys.stdout, doNotLogPassed=True) -> bool:
     """
@@ -13,15 +19,52 @@ def TestMain(sol, log=sys.stdout, doNotLogPassed=True) -> bool:
     of the TestMain function.
     """
   
-    def TestPredefined(solution: function, log):
+    def TestPredefined(sol, log, doNotLogPassed=True) -> bool:
         raise NotImplementedError()
+        
+        ARGS_EXPECTED_PAIRS = ()
+
+        areAllPassed = True
+        failedCount  = 0
+        passedCount  = 0
+
+        for testId, argsExpectedPair in enumerate(ARGS_EXPECTED_PAIRS):
+            args, expected = argsExpectedPair
+            actual         = sol(*args)
+            isPassed       = LinkedList.Equals(expected, actual)
+            
+            if not(isPassed and doNotLogPassed):
+                print('Test #{}'.format(testId),                             file=log)
+                print('Args: ({})'.format(', '.join(map(str, args))),        file=log)
+                print('Expected: {}'.format(expected),                       file=log)
+                print('Actual: {}'.format(actual),                           file=log)
+                print('{}'.format('OK' if expected == actual else 'FAILED'), file=log)
+                print(                                                       file=log)
+            
+            if not isPassed:
+                failedCount  += 1
+                areAllPassed  = False
+            else:
+                passedCount  += 1
+        
+        passedRatio = passedCount / len(ARGS_EXPECTED_PAIRS)
+        failedRatio = failedCount / len(ARGS_EXPECTED_PAIRS)
+
+        print('Passed: {}, %{:.{prec}f}'.format(passedCount, 100.0 * passedRatio, prec=FP_RATIO_PREC), file=log)
+        print('Failed: {}, %{:.{prec}f}'.format(failedCount, 100.0 * failedRatio, prec=FP_RATIO_PREC), file=log)
+
+        return areAllPassed
     
     # Please add all tester functions to the TESTS tuple.
     TESTS        = (TestPredefined, )
     areAllPassed = True
 
     for Test in TESTS:
-        if not Test(solution, log):
+        if not Test(sol, log):
             areAllPassed = False
 
     return areAllPassed
+
+if __name__ == '__main__':
+    #TestMain(solution.FuncToBeTestedName)
+    pass
