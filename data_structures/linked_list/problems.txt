@@ -1,164 +1,165 @@
 Split linked list into two containing alternate nodes.
-[href.] http://algorithmsandme.in/2016/01/alternating-split-of-linked-list
+Source: [href.] http://algorithmsandme.in/2016/01/alternating-split-of-linked-list
 
 Sort a list with 0s, 1s and 2s.
-[href.] http://algorithmsandme.in/2016/01/sort-a-list-with-01-and-2
+Source: [href.] http://algorithmsandme.in/2016/01/sort-a-list-with-01-and-2
 
 Merge two linked lists in node-pairs.
-[href.] http://algorithmsandme.in/2016/01/merge-two-linked-lists-alternatively
+Source: [href.] http://algorithmsandme.in/2016/01/merge-two-linked-lists-alternatively
 
 Delete N nodes after M nodes in linked list.
-[href.] http://algorithmsandme.in/2016/01/delete-n-nodes-after-m-nodes-linked-list
+Source: [href.] http://algorithmsandme.in/2016/01/delete-n-nodes-after-m-nodes-linked-list
 
 Flatten a linked list.
-[href.] http://algorithmsandme.in/2016/01/flatten-a-linked-list
+Source: [href.] http://algorithmsandme.in/2016/01/flatten-a-linked-list
 
 Union of two linked lists.
-[href.] http://algorithmsandme.in/2016/01/union-of-two-linked-lists
+Source: [href.] http://algorithmsandme.in/2016/01/union-of-two-linked-lists
 
 Intersection of two sorted linked lists.
-[href.] http://algorithmsandme.in/2016/01/intersection-of-two-linked-lists
+Source: [href.] http://algorithmsandme.in/2016/01/intersection-of-two-linked-lists
 
 Identical lists: Find if two lists are equal.
-[href.] http://algorithmsandme.in/2016/01/identical-linked-lists
+Source: [href.] http://algorithmsandme.in/2016/01/identical-linked-lists
 
 Print linked list in reversed order.
-[href.] http://algorithmsandme.in/2016/01/print-linked-list-in-reverse-order
+Source: [href.] http://algorithmsandme.in/2016/01/print-linked-list-in-reverse-order
 
 Reverse K alternate nodes in a linked list.
-[href.] http://algorithmsandme.in/2016/01/reverse-k-alternate-nodes-in-linked-list
+Source: [href.] http://algorithmsandme.in/2016/01/reverse-k-alternate-nodes-in-linked-list
 
 Reverse a linked list in a group of K nodes.
-[href.] http://algorithmsandme.in/2016/01/reverse-linked-list-in-group-of-k
+Source: [href.] http://algorithmsandme.in/2016/01/reverse-linked-list-in-group-of-k
 
 Find nth to the last node in a linked list.
-[href.] http://algorithmsandme.in/2015/12/nth-to-last-node-linked-list
+Source: [href.] http://algorithmsandme.in/2015/12/nth-to-last-node-linked-list
 
 Find the middle node in a linked list.
-[href.] http://algorithmsandme.in/2015/11/find-middle-node-of-linked-list
+Source: [href.] http://algorithmsandme.in/2015/11/find-middle-node-of-linked-list
 
 Reverse a linked list.
-[href.] http://algorithmsandme.in/2015/11/reverse-a-linked-list
+Source: [href.] http://algorithmsandme.in/2015/11/reverse-a-linked-list
 
 Find length of a linked list.
-[href.] http://algorithmsandme.in/2015/11/find-length-of-linked-list
+Source: [href.] http://algorithmsandme.in/2015/11/find-length-of-linked-list
 
 Merge sort on a linked list.
-[href.] http://algorithmsandme.in/2015/04/merge-sort-on-linked-list
+Source: [href.] http://algorithmsandme.in/2015/04/merge-sort-on-linked-list
 
 Clone a linked list with a random pointer.
-[href.] http://algorithmsandme.in/2014/08/clone-linked-list-with-random-pointer
+Source: [href.] http://algorithmsandme.in/2014/08/clone-linked-list-with-random-pointer
 
 Check if a linked list is a palindrome.
-[href.] http://algorithmsandme.in/2014/07/check-if-linked-list-is-palindrome
+Source: [href.] http://algorithmsandme.in/2014/07/check-if-linked-list-is-palindrome
 
 Find merge point of two linked lists.
-[href.] http://algorithmsandme.in/2014/05/linked-list-find-merge-point-of-two-linked-lists
+Source: [href.] http://algorithmsandme.in/2014/05/linked-list-find-merge-point-of-two-linked-lists
 
 Merge two sorted linked lists.
-[href.] http://algorithmsandme.in/2014/05/linked-list-find-merge-point-of-two-linked-lists
+Source: [href.] http://algorithmsandme.in/2014/05/linked-list-find-merge-point-of-two-linked-lists
 
 Detect a cycle in a linked list.
-[href.] http://algorithmsandme.in/2013/10/detect-loop-in-linked-list
+Source: [href.] http://algorithmsandme.in/2013/10/detect-loop-in-linked-list
 
 Return the node where the cycle begins in a list.
-[href.] http://www.lintcode.com/en/problem/linked-list-cycle-ii
+Source: [href.] http://www.lintcode.com/en/problem/linked-list-cycle-ii
 
 Add two numbers represented as linked lists.
-[href.] http://algorithmsandme.in/2013/10/add-two-numbers-represented-by-linked-lists
+Source: [href.] http://algorithmsandme.in/2013/10/add-two-numbers-represented-by-linked-lists
 
 Segregate even and odd nodes of a linked list.
-[href.] http://algorithmsandme.in/2016/01/segregate-even-and-odd-nodes-of-linked-list
+Source: [href.] http://algorithmsandme.in/2016/01/segregate-even-and-odd-nodes-of-linked-list
 
 Rotate a linked list left.
-[href.] http://algorithmsandme.in/2016/01/rotate-a-linked-list
+Source: [href.] http://algorithmsandme.in/2016/01/rotate-a-linked-list
 
 Rotate a linked list right.
-[href.] http://algorithmsandme.in/2016/01/rotate-a-linked-list
+Source: [href.] http://algorithmsandme.in/2016/01/rotate-a-linked-list
 
 Insert a node into a sorted linked list.
-[href.] http://algorithmsandme.in/2016/01/insert-node-in-sorted-linked-list
+Source: [href.] http://algorithmsandme.in/2016/01/insert-node-in-sorted-linked-list
 
 Insertion-sort a linked list.
-[href.] http://algorithmsandme.in/2016/01/insert-sort-on-linked-list
+Source: [href.] http://algorithmsandme.in/2016/01/insert-sort-on-linked-list
 
 Implement a stack using a linked list.
-[href.] http://algorithmsandme.in/2014/02/implement-queue-using-linked-list
+Source: [href.] http://algorithmsandme.in/2014/02/implement-queue-using-linked-list
 
 Implement a queue using a linked list.
-[href.] http://algorithmsandme.in/2014/02/implement-queue-using-linked-list
+Source: [href.] http://algorithmsandme.in/2014/02/implement-queue-using-linked-list
 
 Delete a given node to a linked list.
-[href.] https://leetcode.com/problems/delete-node-in-a-linked-lis
+Source: [href.] https://leetcode.com/problems/delete-node-in-a-linked-lis
 
 Remove linked list elements.
-[href.] https://leetcode.com/problems/remove-linked-list-elements/
+Source: [href.] https://leetcode.com/problems/remove-linked-list-elements/
 
 Select a random node from a linked list.
-[href.] https://leetcode.com/problems/linked-list-random-node
+Source: [href.] https://leetcode.com/problems/linked-list-random-node
 
 Swap two nodes in a linked list.
-[href.] http://www.lintcode.com/en/problem/swap-two-nodes-in-linked-list/
+Source: [href.] http://www.lintcode.com/en/problem/swap-two-nodes-in-linked-list/
 
 Swap nodes in pairs in a linked list.
-[href.] http://www.lintcode.com/en/problem/swap-nodes-in-pairs
+Source: [href.] http://www.lintcode.com/en/problem/swap-nodes-in-pairs
 
 Reverse nodes in k-Group.
-[href.] http://www.lintcode.com/en/problem/reverse-nodes-in-k-group
+Source: [href.] http://www.lintcode.com/en/problem/reverse-nodes-in-k-group
 
 Delete a node in the middle of a linked list.
-[href.] http://www.lintcode.com/en/problem/delete-node-in-the-middle-of-singly-linked-list
+Source: [href.] http://www.lintcode.com/en/problem/delete-node-in-the-middle-of-singly-linked-list
 
 Remove duplicates from a sorted linked list.
-[href.] http://www.lintcode.com/en/problem/remove-duplicates-from-sorted-list
+Source: [href.] http://www.lintcode.com/en/problem/remove-duplicates-from-sorted-list
 
 Remove all nodes containing duplicates in a sorted linked list.
-[href.] http://www.lintcode.com/en/problem/remove-duplicates-from-sorted-list-ii
+Source: [href.] http://www.lintcode.com/en/problem/remove-duplicates-from-sorted-list-ii
 
 Convert a sorted list to a balanced BST.
-[href.] http://www.lintcode.com/problem/convert-sorted-list-to-balanced-bst
+Source: [href.] http://www.lintcode.com/problem/convert-sorted-list-to-balanced-bst
 
 Copy a list with a random pointer.
-[href.] http://www.lintcode.com/en/problem/copy-list-with-random-pointer
+Source: [href.] http://www.lintcode.com/en/problem/copy-list-with-random-pointer
 
 Merge k sorted lists.
-[href.] http://www.lintcode.com/en/problem/merge-k-sorted-lists
+Source: [href.] http://www.lintcode.com/en/problem/merge-k-sorted-lists
 
 Reorder a L[0]->L[1]->L[n-1]->L[n] list as L[0]->L[n]->L[1]->L[n-1]->L[2]->L[n-2]->...
-[href.] http://www.lintcode.com/en/problem/reorder-list
+Source: [href.] http://www.lintcode.com/en/problem/reorder-list
 
 Partition a list.
-[href.] http://www.lintcode.com/problem/partition-list
+Source: [href.] http://www.lintcode.com/problem/partition-list
 
 Serialize a linked list.
-[href.] https://github.com/lilsweetcaligula
+Source: [href.] https://github.com/lilsweetcaligula
 
 Find the middle three digits in a number represented as a linked list.
-[href.] http://rosettacode.org/wiki/Middle_three_digits
+Source: [href.] http://rosettacode.org/wiki/Middle_three_digits
 
 Convert a number into a linked list of its digits.
-[href.] https://github.com/lilsweetcaligula
+Source: [href.] https://github.com/lilsweetcaligula
+Solution: [href.] https://github.com/lilsweetcaligula/Algorithms/tree/master/data_structures/linked_list/problems/pos_num_to_linked_list
 
 Find a pattern represented as a linked list in a target linked list.
-[href.] https://github.com/lilsweetcaligula
+Source: [href.] https://github.com/lilsweetcaligula
 
 Check if two linked lists are anagrams.
-[href.] https://github.com/lilsweetcaligula
+Source: [href.] https://github.com/lilsweetcaligula
 
 XOR two values represented as linked lists.
-[href.] https://github.com/lilsweetcaligula
+Source: [href.] https://github.com/lilsweetcaligula
 
 AND two values represented as linked lists.
-[href.] https://github.com/lilsweetcaligula
+Source: [href.] https://github.com/lilsweetcaligula
 
 OR two values represented as linked lists.
-[href.] https://github.com/lilsweetcaligula
+Source: [href.] https://github.com/lilsweetcaligula
 
 Check if an IPV4 address represented as a linked list is valid.
-[href.] https://github.com/lilsweetcaligula
+Source: [href.] https://github.com/lilsweetcaligula
 
 Subtract two values represented as linked lists.
-[href.] https://github.com/lilsweetcaligula
+Source: [href.] https://github.com/lilsweetcaligula
 
 Convert a Roman numeral represented as a linked list to number also represented as a linked list.
-[href.] https://github.com/lilsweetcaligula
+Source: [href.] https://github.com/lilsweetcaligula
