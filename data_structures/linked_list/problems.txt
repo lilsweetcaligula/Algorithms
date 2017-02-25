@@ -140,7 +140,7 @@ Convert a number into a linked list of its digits.
 Source: [href.] https://github.com/lilsweetcaligula
 Solution: [href.] https://github.com/lilsweetcaligula/Algorithms/tree/master/data_structures/linked_list/problems/pos_num_to_linked_list
 
-Find a pattern represented as a linked list in a target linked list.
+Find a string pattern represented as a linked list in a target linked list.
 Source: [href.] https://github.com/lilsweetcaligula
 Solution: [href.] https://github.com/lilsweetcaligula/Algorithms/edit/master/data_structures/linked_list/problems/find_pattern_in_linked_list
 
