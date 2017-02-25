@@ -1,6 +1,6 @@
 import LinkedList
 
-# Linked List Node inside the LinkedList module is declared as:
+# Linked List Node inside the LinkedList module is defined as:
 #
 #   class Node:
 #       def __init__(self, val, nxt=None):
