@@ -1,6 +1,6 @@
 import LinkedList
 
-# Problem description:      Find a pattern represented as a linked list in a target linked list.
+# Problem description:      Find a string pattern represented as a linked list in a target linked list.
 # Solution time complexity: O(n^2)
 # Comments:                 A brute force solution w/o any optimizations. Simply traverse a list looking for the pattern.
 #                           If the node traversing the "pattern" list ever reaches the end (i.e. pnode == null), it is in
