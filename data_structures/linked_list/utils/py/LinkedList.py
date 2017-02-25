@@ -35,7 +35,10 @@ class Node:
 
         return '->'.join(map(str, vals))
 
-def ConvertArrayToLinkedList(values: {list, tuple}) -> Node:
+def ConvertArrayToLinkedList(values: {list, tuple}=None) -> Node:
+    if values == None:
+        return None
+
     dummy = Node(0)
     node  = dummy
 
