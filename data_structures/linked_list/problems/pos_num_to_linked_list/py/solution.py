@@ -1,13 +1,17 @@
+# Problem description:      Convert a number into a linked list of its digits.
+# Solution time complexity: O(n)
+# Comments:
+#
+
 import LinkedList
 
-# Linked List Node inside the LinkedList module is declared as:
+# Linked List Node inside the LinkedList module is defined as:
 #
 #   class Node:
 #       def __init__(self, val, nxt=None):
 #           self.val = val
 #           self.nxt = nxt
 #
-
 
 def ConvertPositiveNumToLinkedList(val: int) -> LinkedList.Node:
     node  = None
