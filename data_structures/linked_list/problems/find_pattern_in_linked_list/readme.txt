@@ -1,4 +1,4 @@
-Find a pattern represented as a linked list in a target linked list and return its index relative to the haystack list's head. Indexation is zero based. If the pattern is not in the list or any of the lists is null, return -1.
+Find a pattern represented as a linked list in a target linked list and return its index relative to the haystack list's head. Indexation is zero based. If the pattern is not in the list or any of the lists is null, return -1. If both the haystack and the needle are null, also return -1.
 
 For example:
 
