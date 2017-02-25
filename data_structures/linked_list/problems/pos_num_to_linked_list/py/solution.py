@@ -1,6 +1,7 @@
 # Problem description:      Convert a number into a linked list of its digits.
 # Solution time complexity: O(n)
-# Comments:
+# Comments:                 Notice that we prepend each subsequent digit node to the destination list's head.
+#                           Otherwise the result will be in reverse, i.e. f(123) => 3->2->1.
 #
 
 import LinkedList
