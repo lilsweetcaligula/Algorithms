@@ -1,5 +1,9 @@
 import LinkedList
 
+# Problem description:      Find a string pattern represented as a linked list in a target linked list.
+# Solution time complexity: O(mn)
+# Comments:                 Robin-Karp algorithm.
+
 # Linked List Node inside the LinkedList module is declared as:
 #
 #   class Node:
