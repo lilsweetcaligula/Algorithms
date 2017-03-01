@@ -1,11 +1,14 @@
 Split linked list into two containing alternate nodes.
 Source: [href.] http://algorithmsandme.in/2016/01/alternating-split-of-linked-list
+Solution: [href.] https://github.com/lilsweetcaligula/Algorithms/tree/master/data_structures/linked_list/problems/split_into_two_alternate
 
 Sort a list with 0s, 1s and 2s.
 Source: [href.] http://algorithmsandme.in/2016/01/sort-a-list-with-01-and-2
+Solution: [href.] https://github.com/lilsweetcaligula/Algorithms/tree/master/data_structures/linked_list/problems/sort_with_012
 
 Merge two linked lists in node-pairs.
 Source: [href.] http://algorithmsandme.in/2016/01/merge-two-linked-lists-alternatively
+Solution: [href.] https://github.com/lilsweetcaligula/Algorithms/tree/master/data_structures/linked_list/problems/merge_two_lists_in_node_pairs_alternatively
 
 Delete N nodes after M nodes in linked list.
 Source: [href.] http://algorithmsandme.in/2016/01/delete-n-nodes-after-m-nodes-linked-list
