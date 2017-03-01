@@ -12,6 +12,7 @@ Solution: [href.] https://github.com/lilsweetcaligula/Algorithms/tree/master/dat
 
 Delete N nodes after M nodes in linked list.
 Source: [href.] http://algorithmsandme.in/2016/01/delete-n-nodes-after-m-nodes-linked-list
+Solution: [href.] https://github.com/lilsweetcaligula/Algorithms/tree/master/data_structures/linked_list/problems/delete_n_after_m
 
 Flatten a linked list.
 Source: [href.] http://algorithmsandme.in/2016/01/flatten-a-linked-list
