@@ -15,7 +15,7 @@ Source: [href.] http://algorithmsandme.in/2016/01/delete-n-nodes-after-m-nodes-l
 Solution: [href.] https://github.com/lilsweetcaligula/Algorithms/tree/master/data_structures/linked_list/problems/delete_n_after_m
 
 Flatten a linked list.
-Source: [href.] http://algorithmsandme.in/2016/01/flatten-a-linked-list
+Source: [href.] http://algorithmsandme.in/2016/01/flatten-linked-list/
 Solution: [href.] https://github.com/lilsweetcaligula/Algorithms/tree/master/data_structures/linked_list/problems/flatten
 
 Union of two linked lists.
@@ -23,7 +23,9 @@ Source: [href.] http://algorithmsandme.in/2016/01/union-of-two-linked-lists
 Solution: [href.] https://github.com/lilsweetcaligula/Algorithms/tree/master/data_structures/linked_list/problems/union
 
 Intersection of two sorted linked lists.
-Source: [href.] http://algorithmsandme.in/2016/01/intersection-of-two-linked-lists
+Source: 
+[href.] http://algorithmsandme.in/2016/01/intersection-of-two-linked-lists
+[href.] http://www.lintcode.com/en/problem/intersection-of-two-linked-lists
 Solution: [href.] https://github.com/lilsweetcaligula/Algorithms/tree/master/data_structures/linked_list/problems/intersection
 
 Identical lists: Find if two lists are equal.
@@ -35,11 +37,15 @@ Source: [href.] http://algorithmsandme.in/2016/01/print-linked-list-in-reverse-o
 Solution: [href.] https://github.com/lilsweetcaligula/Algorithms/tree/master/data_structures/linked_list/problems/print_reversed
 
 Reverse K alternate nodes in a linked list.
-Source: [href.] http://algorithmsandme.in/2016/01/reverse-k-alternate-nodes-in-linked-list
+Source: 
+[href.] http://algorithmsandme.in/2016/01/reverse-linked-list-in-group-of-k
+[href.] http://www.lintcode.com/en/problem/reverse-nodes-in-k-group
 Solution: [href.] https://github.com/lilsweetcaligula/Algorithms/tree/master/data_structures/linked_list/problems/reverse_k_alternate
 
 Find nth to the last node in a linked list.
-Source: [href.] http://algorithmsandme.in/2015/12/nth-to-last-node-linked-list
+Source: 
+[href.] http://algorithmsandme.in/2015/12/nth-to-last-node-linked-list
+[href.] http://www.lintcode.com/en/problem/nth-to-last-node-in-list
 Solution: [href.] https://github.com/lilsweetcaligula/Algorithms/tree/master/data_structures/linked_list/problems/find_nth_to_the_last
 
 Find the middle node in a linked list.
@@ -48,7 +54,9 @@ Source:
 Solution: [href.] https://github.com/lilsweetcaligula/Algorithms/tree/master/data_structures/linked_list/problems/find_middle
 
 Reverse a linked list.
-Source: [href.] http://algorithmsandme.in/2015/11/reverse-a-linked-list
+Source: 
+[href.] http://algorithmsandme.in/2015/11/reverse-a-linked-list
+[href.] http://www.lintcode.com/en/problem/reverse-linked-list
 Solution: [href.] https://github.com/lilsweetcaligula/Algorithms/tree/master/data_structures/linked_list/problems/reverse
 
 Find length of a linked list.
@@ -80,11 +88,15 @@ Source:
 Solution: [href.] https://github.com/lilsweetcaligula/Algorithms/tree/master/data_structures/linked_list/problems/find_merge_point
 
 Merge two sorted linked lists.
-Source: [href.] http://algorithmsandme.in/2014/05/linked-list-find-merge-point-of-two-linked-lists
+Source: 
+[href.] http://algorithmsandme.in/2014/05/linked-list-find-merge-point-of-two-linked-lists
+[href.] http://www.lintcode.com/en/problem/merge-two-sorted-lists
 Solution: [href.] https://github.com/lilsweetcaligula/Algorithms/tree/master/data_structures/linked_list/problems/merge
 
 Detect a cycle in a linked list.
-Source: [href.] http://algorithmsandme.in/2013/10/detect-loop-in-linked-list
+Source: 
+[href.] http://algorithmsandme.in/2013/10/detect-loop-in-linked-list
+[href.] https://leetcode.com/problems/linked-list-cycle
 Solution: [href.] https://github.com/lilsweetcaligula/Algorithms/tree/master/data_structures/linked_list/problems/detect_cycle
 
 Return the node where the cycle begins in a list.
@@ -112,7 +124,9 @@ Source: [href.] http://algorithmsandme.in/2016/01/insert-node-in-sorted-linked-l
 Solution: [href.] https://github.com/lilsweetcaligula/Algorithms/blob/master/data_structures/linked_list/problems/insert_node_into_sorted
 
 Insertion-sort a linked list.
-Source: [href.] http://algorithmsandme.in/2016/01/insert-sort-on-linked-list
+Source: 
+[href.] http://algorithmsandme.in/2016/01/insert-sort-on-linked-list
+[href.] http://www.lintcode.com/en/problem/insertion-sort-list
 Solution: [href.] https://github.com/lilsweetcaligula/Algorithms/tree/master/data_structures/linked_list/problems/insertion_sort
 
 Implement a stack using a linked list.
