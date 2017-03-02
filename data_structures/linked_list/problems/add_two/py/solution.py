@@ -25,9 +25,13 @@ def AddTwo(left: LinkedList.Node, right: LinkedList.Node) -> LinkedList.Node:
 
         return prev
 
+    # We will "pin" the digits of the addition result value to the dummy list,
+    # - we need the dummy to avoid the extra testing for a None dest node.
     dummy     = LinkedList.Node(0)
     dest      = dummy
 
+    # Reverse the lists - we need to start from the end of each value in order
+    # to add them up.
     left      = ListReverse(left)
     right     = ListReverse(right)
 
@@ -54,4 +58,6 @@ def AddTwo(left: LinkedList.Node, right: LinkedList.Node) -> LinkedList.Node:
         dest.nxt = LinkedList.Node(carry)
         dest     = dest.nxt
 
+    # At this point, the digits of the addition result will be in a reversed
+    # order, - put them back in place with one more reverse.
     return ListReverse(dummy.nxt)
