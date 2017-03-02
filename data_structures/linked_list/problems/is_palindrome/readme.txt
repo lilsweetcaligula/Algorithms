@@ -3,3 +3,7 @@ Source:
 [href.] http://algorithmsandme.in/2014/07/check-if-linked-list-is-palindrome
 [href.] http://www.lintcode.com/en/problem/palindrome-linked-list
 [href.] https://leetcode.com/problems/palindrome-linked-list
+
+For tests, please consult:
+[href.] http://www.lintcode.com/en/problem/palindrome-linked-list
+[href.] https://leetcode.com/problems/palindrome-linked-list
