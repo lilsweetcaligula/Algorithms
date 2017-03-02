@@ -65,4 +65,16 @@ def Equals(left: Node, right: Node) -> bool:
             lnode = lnode.nxt
             rnode = rnode.nxt
             
-    return lnode == None and rnode == None 
+    return lnode == rnode == None
+
+def Copy(head: Node) -> Node:
+    dummy = Node(0)
+    dest  = dummy
+    node  = head
+
+    while node != None:
+        dest.nxt = Node(node.val)
+        dest     = dest.nxt
+        node     = node.nxt
+
+    return dummy.nxt
