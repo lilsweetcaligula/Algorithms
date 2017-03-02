@@ -59,15 +59,23 @@ Source: [href.] http://algorithmsandme.in/2015/04/merge-sort-on-linked-list
 Solution: [href.] https://github.com/lilsweetcaligula/Algorithms/tree/master/data_structures/linked_list/problems/merge_sort
 
 Clone a linked list with a random pointer.
-Source: [href.] http://algorithmsandme.in/2014/08/clone-linked-list-with-random-pointer
+Source: 
+[href.] http://algorithmsandme.in/2014/08/clone-linked-list-with-random-pointer
+[href.] http://www.lintcode.com/en/problem/copy-list-with-random-pointer
 Solution: [href.] https://github.com/lilsweetcaligula/Algorithms/tree/master/data_structures/linked_list/problems/clone_with_a_random_pointer
 
 Check if a linked list is a palindrome.
-Source: [href.] http://algorithmsandme.in/2014/07/check-if-linked-list-is-palindrome
+Source: 
+[href.] http://algorithmsandme.in/2014/07/check-if-linked-list-is-palindrome
+[href.] http://www.lintcode.com/en/problem/palindrome-linked-list
+[href.] https://leetcode.com/problems/palindrome-linked-list
 Solution: [href.] https://github.com/lilsweetcaligula/Algorithms/tree/master/data_structures/linked_list/problems/is_palindrome
 
 Find merge point of two linked lists.
-Source: [href.] http://algorithmsandme.in/2014/05/linked-list-find-merge-point-of-two-linked-lists
+Source: 
+[href.] http://algorithmsandme.in/2014/05/linked-list-find-merge-point-of-two-linked-lists
+[href.] http://www.lintcode.com/en/problem/intersection-of-two-linked-lists
+[href.] https://leetcode.com/problems/intersection-of-two-linked-lists
 Solution: [href.] https://github.com/lilsweetcaligula/Algorithms/tree/master/data_structures/linked_list/problems/find_merge_point
 
 Merge two sorted linked lists.
