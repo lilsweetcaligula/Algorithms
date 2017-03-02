@@ -5,7 +5,7 @@
 
 import sys
 import LinkedList
-import solution
+import addTwoSolution as solution
 
 FP_RATIO_PREC = 2
 # The number of digits of precision in the values representing 
@@ -24,7 +24,7 @@ def TestMain(sol, log=sys.stdout, doNotLogPassed=True) -> bool:
   
     def TestPredefined(sol, log, doNotLogPassed=True) -> bool:
         class ArgsExpectedPairCollection:
-            def __init__(self, count=60, minVal=0, maxVal=1073741823):
+            def __init__(self, count=60, minVal=0, maxVal=99):
                 self.count  = count
                 self.minVal = minVal
                 self.maxVal = maxVal
@@ -36,7 +36,6 @@ def TestMain(sol, log=sys.stdout, doNotLogPassed=True) -> bool:
                 import random
 
                 for _ in range(self.count):
-
                     leftVal    = random.randint(self.minVal, self.maxVal)
                     rightVal   = random.randint(self.minVal, self.maxVal)
                     resultVal  = leftVal + rightVal
@@ -55,7 +54,7 @@ def TestMain(sol, log=sys.stdout, doNotLogPassed=True) -> bool:
 
         for testId, argsExpectedPair in enumerate(ARGS_EXPECTED_PAIRS):
             args, expected = argsExpectedPair
-            actual         = sol(*args)
+            actual         = sol(*map(LinkedList.Copy, args))
             isPassed       = LinkedList.Equals(expected, actual)
             
             if not(isPassed and doNotLogPassed):
