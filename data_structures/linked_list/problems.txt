@@ -43,7 +43,8 @@ Source: [href.] http://algorithmsandme.in/2015/12/nth-to-last-node-linked-list
 Solution: [href.] https://github.com/lilsweetcaligula/Algorithms/tree/master/data_structures/linked_list/problems/find_nth_to_the_last
 
 Find the middle node in a linked list.
-Source: [href.] http://algorithmsandme.in/2015/11/find-middle-node-of-linked-list
+Source: 
+[href.] http://algorithmsandme.in/2015/11/find-middle-node-of-linked-list
 Solution: [href.] https://github.com/lilsweetcaligula/Algorithms/tree/master/data_structures/linked_list/problems/find_middle
 
 Reverse a linked list.
@@ -143,7 +144,8 @@ Source: [href.] http://www.lintcode.com/en/problem/swap-nodes-in-pairs
 Solution: [href.] https://github.com/lilsweetcaligula/Algorithms/tree/master/data_structures/linked_list/problems/swap_in_pairs
 
 Delete a node in the middle of a linked list.
-Source: [href.] http://www.lintcode.com/en/problem/delete-node-in-the-middle-of-singly-linked-list
+Source: 
+[href.] http://www.lintcode.com/en/problem/delete-node-in-the-middle-of-singly-linked-list
 Solution: [href.] https://github.com/lilsweetcaligula/Algorithms/tree/master/data_structures/linked_list/problems/delete_in_the_middle
 
 Remove duplicates from a sorted linked list.
