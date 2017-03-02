@@ -148,7 +148,7 @@ Solution: [href.] https://github.com/lilsweetcaligula/Algorithms/tree/master/dat
 
 Convert a sorted list to a balanced BST.
 Source: [href.] http://www.lintcode.com/problem/convert-sorted-list-to-balanced-bst
-Solution: [href.] https://github.com/lilsweetcaligula/Algorithms/tree/master/data_structures/linked_list/problems/convert_sorted_to_balanced
+Solution: [href.] https://github.com/lilsweetcaligula/Algorithms/tree/master/data_structures/linked_list/problems/convert_sorted_to_bst
 
 Merge k sorted lists.
 Source: [href.] http://www.lintcode.com/en/problem/merge-k-sorted-lists
