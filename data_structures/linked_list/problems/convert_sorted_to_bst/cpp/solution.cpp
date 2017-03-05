@@ -2,7 +2,8 @@
  * Problem description:      Given a singly linked list where elements are sorted in ascending order, convert 
  *                           it to a height balanced BST.
  * Solution time complexity: O(n log n)
- * Comments:                 Given solution is non-destructive to the list it's called upon.
+ * Comments:                 Given solution is non-destructive to the list it's called upon. See the comments
+ *                           in the code for additional details.
  */
 
 /**
