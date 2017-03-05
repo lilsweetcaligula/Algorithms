@@ -1,6 +1,6 @@
 import sys
 import LinkedList
-import deleteNAfterMSolution as solution
+import solution
 
 FP_RATIO_PREC = 2
 # The number of digits of precision in the values representing 
