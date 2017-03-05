@@ -25,17 +25,18 @@ def CountBobs(head: LinkedList.Node) -> int:
             # be present fully.
             return 0
         elif node.val != c:
-            # Mismatch, move the head pointer one node forward.
+            # Mismatch, move the head pointer one node forward 
+            # and recurse.
             return CountBobs(head.nxt)
         else:
             # Match so far, move the node pointer one node forward.
             node = node.nxt
     else:
         # If we got this far, we have found the "bob" substring.
-        # Jump over a node starting from the head. We could jump
-        # to the next one but if we just had "bob" match, head.nxt
-        # will have the value of "o", - and there's no way we have
-        # "bob" with the first letter "o".
+        # Jump over a node starting from the head and recurse. 
+        # We could jump to the next one but if we just had "bob" 
+        # match, head.nxt will have the value of "o", - and there's 
+        # no way we have "bob" with the first letter "o".
         return 1 + CountBobs(head.nxt.nxt)
 
     return 0
