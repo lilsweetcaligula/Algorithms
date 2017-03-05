@@ -1,6 +1,6 @@
 # Problem description:      Given a linked list, return the node where the cycle begins, or if there's no cycle, return null.
 # Solution time complexity: O(n)
-# Comments:                 Floyd's algorithm.
+# Comments:                 Floyd-Warshall algorithm.
 
 """
 Definition of ListNode
