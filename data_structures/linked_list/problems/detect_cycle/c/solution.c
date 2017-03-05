@@ -11,14 +11,14 @@
  *     struct ListNode *next;
  * };
  */
-bool hasCycle(struct ListNode *head) 
+bool hasCycle(const struct ListNode *head) 
 {
     if (head == NULL) {
         return NULL;   
     }
     
-    struct ListNode *slow = head,
-                    *fast = head;
+    const struct ListNode *slow = head,
+                          *fast = head;
                     
     while (fast != NULL && fast->next != NULL) 
     {
