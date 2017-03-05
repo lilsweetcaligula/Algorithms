@@ -1,7 +1,7 @@
 /**
  * Problem description:      Make a deep copy of a list, containing nodes with a random pointer to any other node in the list or null.
  * Solution time complexity: O(n)
- * Comments: 
+ * Comments:                 See comments in the code.
  */
 
 /**
