@@ -1,5 +1,6 @@
 /**
- * Problem description:      Implement an algorithm to delete a node in the middle of a singly linked list, given only access to that node.
+ * Problem description:      Implement an algorithm to delete a node in the middle of a singly linked list, 
+ *                           given only access to that node.
  * Solution time complexity: O(n)
  * Comments:                 
  */
