@@ -1,7 +1,7 @@
 import LinkedList
 
-# Problem description:      
-# Solution time complexity: 
+# Problem description:      Given two linked lists, determine if they are equal.      
+# Solution time complexity: O(n)
 # Comments:                 
 
 # Linked List Node inside the LinkedList module is declared as:
@@ -23,4 +23,4 @@ def AreEqual(left: LinkedList.Node, right: LinkedList.Node) -> bool:
             lnode = lnode.nxt
             rnode = rnode.nxt
 
-    return lnode == None and rnode == None
+    return lnode == rnode == None
