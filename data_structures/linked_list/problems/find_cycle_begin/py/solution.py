@@ -27,6 +27,10 @@ class Solution:
             slow = slow.next
             fast = fast.next.next
             
+            # If slow == fast, we have a cycle.
+            # Reset the slow pointer to the head of
+            # the list and start incrementing both
+            # slow and fast pointers by one.
             if slow == fast:
                 slow = head
                 
@@ -35,5 +39,6 @@ class Solution:
                     fast = fast.next
                     
                 return slow
-                
+        
+        # No cycle.
         return None
