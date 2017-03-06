@@ -1,7 +1,7 @@
 /**
  * Problem description:      Given a linked list, sort it using insertion sort.
  * Solution time complexity: O(n^2)
- * Comments:                 
+ * Comments:                 Dummy node technique is used to facilitate sorting.
  */
 
 /**
