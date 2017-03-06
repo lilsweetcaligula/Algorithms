@@ -2,6 +2,20 @@
 #                           no intersection, return null.
 # Solution time complexity: O(n)
 # Comments:                 The solution with two stacks - extra memory.
+#
+#                               a1->a2
+#                                     \
+#                                      c1->c2->c3 
+#                                     /
+#                           b1->b2->b3
+#
+#                                  ->|_c3_|
+#                                  ->|_c3_| ->|_c2_|
+#                                  ->|_c2_| ->|_c1_|
+#                                  ->|_c1_| ->|_b3_| <-- intersection
+#                                    |_a2_|   |_b2_|
+#                          Stack 2   |_a1_|   |_b1_| Stack 1
+#
 
 # Definition for singly-linked list.
 # class ListNode(object):
