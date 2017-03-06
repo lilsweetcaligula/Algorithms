@@ -10,7 +10,7 @@
 #                           b1->b2->b3
 #
 #                           lookup = { 
-#                               b1, b2, b3, c1, c2, c3
+#                               b1->b2->b3->c1->c2->c3
 #                           }
 #
 #                           a1,         a1 in lookup? False
