@@ -9,6 +9,49 @@
 #                           node of the bigger list as many times as required to make the count of nodes to the
 #                           end equal in both lists. Now we can simply traverse both lists at the same time incre-
 #                           mentally until we encounter the intersection node.
+#
+#                               a1->a2
+#                                     \
+#                                      c1->c2->c3 
+#                                     /
+#                           b1->b2->b3
+#
+#
+#                           i)
+#                                  s
+#                             x |------|
+#                           |---|
+#                               a1->a2
+#                                     \
+#                                      c1->c2->c3 
+#                                     /
+#                           b1->b2->b3
+#
+#                           ii)
+#                             x      s
+#                           |---||------|
+#                                      len1
+#                               |----------------|
+#                               a1->a2->c1->c2->c3
+#                           b1->b2->b3->c1->c2->c3
+#                            |-------------------|
+#                                     len2
+#
+#                           x = abs(len1 - len2)
+#                           
+#                           iii) 
+#                               a1->a2                        o->a2
+#                                     \                            \
+#                                      c1->c2->c3                   c1->c2->c3 
+#                                     /                            /
+#                               b2->b3                        o->b3
+#
+#                               o->o
+#                                   \
+#                                    c1 <-- intersection node
+#                                   /
+#                               o->o
+#
 
 # Definition for singly-linked list.
 # class ListNode(object):
