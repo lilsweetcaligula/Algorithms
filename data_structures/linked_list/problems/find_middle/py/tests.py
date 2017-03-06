@@ -91,7 +91,7 @@ def TestMain(sol, log=sys.stdout, doNotLogPassed=True) -> bool:
     areAllPassed = True
 
     for Test in TESTS:
-        if not Test(sol, log):
+        if not Test(sol, log, doNotLogPassed):
             areAllPassed = False
 
     return areAllPassed
