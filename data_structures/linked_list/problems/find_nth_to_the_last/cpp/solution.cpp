@@ -3,6 +3,14 @@
  *                           The minimum number of nodes in list is n.
  * Solution time complexity: O(n)
  * Comments:                 
+ *                           i)  0->1->2->3->4->5
+ *                               |-----|
+ *                                  n=2
+ *                                  |-----|
+ *                                     |-----|
+ *                                        |-----|
+ *                                        ^
+ *                                  nth to the last
  */
 
 /**
