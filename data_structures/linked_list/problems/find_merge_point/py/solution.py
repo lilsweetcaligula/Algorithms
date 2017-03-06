@@ -1,4 +1,4 @@
-# Problem description:      Given two linked list, return the node where the intersection begins, or if there's 
+# Problem description:      Given two linked lists, return the node where the intersection begins, or if there's 
 #                           no intersection, return null.
 # Solution time complexity: O(n)
 # Comments:                 The solution with two stacks - extra memory.
