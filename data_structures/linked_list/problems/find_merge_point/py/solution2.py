@@ -15,8 +15,7 @@
 #
 #                           a1,         a1 in lookup? False
 #                           a1->a2,     a2 in lookup? False
-#                           a1->a2->c1, c1 in lookup? True, c1 == intersection node
-#
+#                           a1->a2->c1, c1 in lookup? True  <-- intersection node
 #
 
 # Definition for singly-linked list.
